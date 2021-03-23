@@ -1,7 +1,1 @@
-Habia un error grave en la etiqueta "*"  ya que estaba agregada los siguientes atributos
-
-  ♠ position: relative;
-  ♠ margin: auto;
-  ♠ width: 1000px; 
-
-Lo cual generá un error al momento de agregar diseño el en bottom  
+Creado todas las plantillas para modificar el changing
