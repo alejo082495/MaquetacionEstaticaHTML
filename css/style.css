@@ -132,7 +132,67 @@ nav ul li{
 
 /* Contactenos
 -------------------------------- */
+form{
+  position: relative;
+  margin: auto;
+  top: 32px;
+  width: 910px;
+  height: 232px;
+}
 
+#nombre{
+  position: absolute;
+  top: 0px;
+  height: 49px;
+  width: 277px;
+  padding: 10px;
+  text-align: left;
+}
+
+#email{
+  position: absolute;
+  top: 82px;
+  height: 49px;
+  width: 277px;
+  padding: 10px;
+  text-align: left;
+}
+
+#asunto{
+  position: absolute;
+  bottom: 0px;
+  height: 49px;
+  width: 277px;
+  padding: 10px;
+  text-align: left;
+}
+
+#mensaje{
+  position: absolute;
+  right: 0px;
+  height: 130px;
+  width: 583px;
+  padding: 10px;
+  text-align: left;
+}
+
+#enviar{
+  position: absolute;
+  right: 0px;
+  bottom: 0px;
+  height: 70px;
+  width: 604px;
+  padding: 10px;
+  text-align: left;
+  text-align: center;
+  color: white;
+  background: #1a1d20;
+}
+
+.esquema{
+  border: 0;
+  background: #dce9d7;
+}
 /* Quienes Somos
 -------------------------------- */
 
